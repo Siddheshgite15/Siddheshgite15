@@ -65,6 +65,45 @@ const profile = {
 - Integrated backend services with face recognition (95%+ accuracy)
 - Automated attendance marking & CSV export functionality
 
+### 📊 Asset Manager - Stock & Billing System
+`Django` `Python` `SQLite`
+
+- Role-based access control (Admin & Employees)
+- Real-time inventory tracking & stock monitoring
+- Automated billing and invoice generation
+- Employee login/logout monitoring system
+
+### 🏪 Stock Management System
+`Python` `Django`
+
+- Complete product CRUD operations
+- Stock alert mechanism for low inventory
+- Integrated billing system
+- Admin dashboard for inventory control
+
+### 📈 Sorting Algorithm Visualization
+`C++` `graphics.h`
+
+- Visual demonstration of Bubble, Selection, Insertion & Merge Sort
+- Real-time animation of sorting processes
+- Time complexity behavior visualization
+- Educational tool for algorithm understanding
+
+### 🤖 Height-to-Weight Predictor
+`Python` `Machine Learning` `Scikit-learn`
+
+- Linear regression model implementation
+- Dataset preprocessing & feature engineering
+- Prediction engine with model evaluation
+- Statistical analysis of height-weight correlation
+
+### 💳 Django Billing System
+`Django` `Python`
+
+- User authentication & session management
+- Product management module
+- Automated bill generation
+- Invoice handling & export functionality
 ---
 
 ## 💻 Tech Stack
