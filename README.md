@@ -32,48 +32,66 @@ const profile = {
 
 ## 🚀 Featured Projects
 
-### 🌾 [Shree Anna](https://github.com/yashwawge/sih) - Millet Supply Chain
+### 🌾 [Shree Anna](https://github.com/yashwawge/sih) - Millet Supply Chain (Private)
 **SIH 2025 Finalist** | `Next.js` `MongoDB` `Flask` `Blockchain` `JWT` `Railway`
-**Role:** Technical Lead
+**Role:** Technical Lead (Team Sahasra)
 - Led 6-member dev team, designed monolithic Next.js architecture
 - Implemented blockchain traceability & QR certification system
 - Built multilingual mobile-first UI for farmers & distributors
 - **Impact:** Digitized millet supply chain connecting farmers to markets
 - **Live URL:** https://shree-anna-production.up.railway.app/
 
-### 🌿 [ArogyaVatika](https://github.com/Siddheshgite15/arogya-vatika) - Ayurveda E-Commerce
+### 🌿 [ArogyaVatika](https://github.com/Siddheshgite15/arogya-vatika) - Ayurveda E-Commerce (Private)
 **2nd Rank PBL** | `Spring Boot` `React` `Docker` `JWT` `MongoDB` `Vercel` `Render`
-**Role:** Full-Stack Developer
+**Role:** Full-Stack Developer (Team NERV)
 - Designed & deployed 3-tier full-stack architecture
 - Implemented secure role-based authentication (User/Owner/Admin)
 - Dockerized backend, deployed on Render & Vercel
 - **Impact:** Designed for scalable concurrent user handling
 - **Live URL:**  https://arogyavatika.vercel.app
 
-### 🔐 [InsurEase](https://github.com/Siddheshgite15/InsurEase--Insurance-Manager) - AI Insurance Platform
+### 🔐 [InsurEase](https://github.com/Siddheshgite15/InsurEase--Insurance-Manager) - AI Insurance Platform (Private)
 **National-Level Finalist** | `React` `Node.js` `TypeScript` `MongoDB` `Gemini AI`
-**Role:** Frontend Developer (Routing and event handling)
+**Role:** Frontend Developer (Routing and event handling) (Team TrustShield)
 - Architected frontend routing & state management for 5-member team
 - Built AI-powered insurance recommendation engine
 - Integrated Razorpay payments & claim calculator with real-time analytics
 - **Impact:** Streamlined insurance policy management with AI-driven insights
 
-### 👤 [Face Recognition Attendance](https://github.com/Siddheshgite15/Face-Recognition-based-Attendance-System-Version_2-TCP_Socket) - CV System
+### 👤 [Face Recognition Attendance](https://github.com/Siddheshgite15/Face-Recognition-based-Attendance-System-Version_2-TCP_Socket) - CV System (Public)
 `Python` `OpenCV` `Flask` `KNN`
-**Role:** Backend developer 
-- Integrated backend services with face recognition (95%+ accuracy)
+**Role:** Backend developer (Team X) 
+- Integrated backend services with face recognition (80%+ accuracy)
 - Automated attendance marking & CSV export functionality
 
 ## Solo project :
 
-### 📱 [File Manager Simulation](https://github.com/Siddheshgite15/FileManager) - Mobile App
+### 📱 [File Manager Simulation](https://github.com/Siddheshgite15/FileManager) - Mobile App (Private)
 `React Native` `Expo` `Data Structures`
 - Implemented Tree, Binary Tree & Max-Heap for file operations
 - Achieved O(log n) search complexity with priority-based views
 - Built offline-first architecture with real-time visualization
 - Live apk in Repository
 
-### 📊 [Asset Manager](https://github.com/Siddheshgite15/Asset-Manager--Stock-Monitoring-and-Billing-System-v2.0) - Stock & Billing System
+### 🌾 [Millet Price Predictor](https://github.com/Siddheshgite15/millet-price-predictor) - ML Microservice (Public)
+`Flask` `Python` `Machine Learning` `REST API`
+
+- Region-specific ML models for Nashik millet price prediction
+- Secure Flask-based REST API microservice
+- Backend service for Shree Anna (SIH) platform
+- Multi-region price forecasting engine
+
+### 💰 [CryptoBuddy](https://github.com/Siddheshgite15/crypto-buddy-demo) - Portfolio Tracker (Public)
+`Typescript` `React` `Node.js` `Third-Party APIs` `Lovable AI` `Prompting`
+
+- Live cryptocurrency portfolio management platform
+- Real-time Bitcoin price tracking with trend analysis
+- Fake account simulation for beginner traders
+- Portfolio history tracking & performance analytics
+- Integration with live crypto market APIs
+- **Live URL:** https://lovable.dev/projects/73a6fcf1-b6d6-4519-8dc6-657409d25796
+
+### 📊 [Asset Manager](https://github.com/Siddheshgite15/Asset-Manager--Stock-Monitoring-and-Billing-System-v2.0) - Stock & Billing System (Public)
 `Django` `Python` `SQLite`
 
 - Role-based access control (Admin & Employees)
@@ -81,7 +99,7 @@ const profile = {
 - Automated billing and invoice generation
 - Employee login/logout monitoring system
 
-### 📈 [Sorting Algorithm Visualization](https://github.com/Siddheshgite15/Sort-Visualizer-using-C-graphics.h-considering-color-code)
+### 📈 [Sorting Algorithm Visualization](https://github.com/Siddheshgite15/Sort-Visualizer-using-C-graphics.h-considering-color-code) (Public)
 `C++` `graphics.h`
 
 - Visual demonstration of Bubble, Selection, Insertion & Merge Sort
