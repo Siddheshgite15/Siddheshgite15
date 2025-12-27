@@ -32,13 +32,6 @@ const profile = {
 
 ## 🚀 Featured Projects
 
-### 🔐 [TrustShield](https://github.com/Siddheshgite15/trustshield) - AI Insurance Platform
-**Hackathon Winner** | `React` `Node.js` `TypeScript` `MongoDB` `Gemini AI`
-- Architected frontend routing & state management for 5-member team
-- Built AI-powered insurance recommendation engine
-- Integrated Razorpay payments & claim calculator with real-time analytics
-- **Impact:** Simplified policy management for 1000+ mock users
-
 ### 🌾 [Shree Anna](https://github.com/Siddheshgite15/shree-anna) - Millet Supply Chain
 **SIH 2025 Finalist** | `Next.js` `MongoDB` `Flask` `Blockchain`  
 **Role:** Technical Lead
@@ -59,6 +52,13 @@ const profile = {
 - Implemented Tree, Binary Tree & Max-Heap for file operations
 - Achieved O(log n) search complexity with priority-based views
 - Built offline-first architecture with real-time visualization
+
+### 🔐 [TrustShield](https://github.com/Siddheshgite15/trustshield) - AI Insurance Platform
+**Hackathon Finalist** | `React` `Node.js` `TypeScript` `MongoDB` `Gemini AI`
+- Architected frontend routing & state management for 5-member team
+- Built AI-powered insurance recommendation engine
+- Integrated Razorpay payments & claim calculator with real-time analytics
+- **Impact:** Simplified policy management for 1000+ mock users
 
 ### 👤 [Face Recognition Attendance](https://github.com/Siddheshgite15/face-attendance) - CV System
 `Python` `OpenCV` `Flask` `KNN`
