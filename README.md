@@ -5,7 +5,7 @@
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;SIH+2025+Finalist;Building+Production-Ready+Apps)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/siddheshgite)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-500%2B-FFA116?style=flat&logo=leetcode)](https://leetcode.com/siddheshgite15)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-80%2B-FFA116?style=flat&logo=leetcode)](https://leetcode.com/siddheshgite15)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:siddheshgite15@gmail.com)
   
 </div>
@@ -32,6 +32,13 @@ const profile = {
 
 ## 🚀 Featured Projects
 
+### 🔐 [TrustShield](https://github.com/Siddheshgite15/trustshield) - AI Insurance Platform
+**Hackathon Winner** | `React` `Node.js` `TypeScript` `MongoDB` `Gemini AI`
+- Architected frontend routing & state management for 5-member team
+- Built AI-powered insurance recommendation engine
+- Integrated Razorpay payments & claim calculator with real-time analytics
+- **Impact:** Simplified policy management for 1000+ mock users
+
 ### 🌾 [Shree Anna](https://github.com/Siddheshgite15/shree-anna) - Millet Supply Chain
 **SIH 2025 Finalist** | `Next.js` `MongoDB` `Flask` `Blockchain`  
 **Role:** Technical Lead
@@ -52,13 +59,6 @@ const profile = {
 - Implemented Tree, Binary Tree & Max-Heap for file operations
 - Achieved O(log n) search complexity with priority-based views
 - Built offline-first architecture with real-time visualization
-
-### 🔐 [TrustShield](https://github.com/Siddheshgite15/trustshield) - AI Insurance Platform
-**Hackathon Finalist** | `React` `Node.js` `TypeScript` `MongoDB` `Gemini AI`
-- Architected frontend routing & state management for 5-member team
-- Built AI-powered insurance recommendation engine
-- Integrated Razorpay payments & claim calculator with real-time analytics
-- **Impact:** Simplified policy management for 1000+ mock users
 
 ### 👤 [Face Recognition Attendance](https://github.com/Siddheshgite15/face-attendance) - CV System
 `Python` `OpenCV` `Flask` `KNN`
@@ -94,18 +94,21 @@ const profile = {
 | **Arrays & Strings** | Two Pointers, Sliding Window, Hashing |
 | **Data Structures** | Stacks, Queues, Linked Lists, Trees, Graphs, Heaps |
 | **Algorithms** | Recursion, Backtracking, Greedy, Dynamic Programming |
-| **Practice** | 500+ LeetCode Problems (Pattern-Based Approach) |
+| **Practice** | 80+ LeetCode Problems (Pattern-Based Approach) |
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Contribution Activity
 
 <div align="center">
-  
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Siddheshgite15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddheshgite15&theme=tokyonight&hide_border=true" />
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Siddheshgite15&theme=tokyo-night&hide_border=true&area=true)
+
+### Commit Streak & Contributions
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddheshgite15&theme=tokyonight&hide_border=true)
 
 </div>
 
