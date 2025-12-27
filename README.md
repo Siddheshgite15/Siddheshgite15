@@ -32,7 +32,7 @@ const profile = {
 
 ## 🚀 Featured Projects
 
-### 🌾 [Shree Anna](https://github.com/Siddheshgite15/shree-anna) - Millet Supply Chain
+### 🌾 [Shree Anna](https://github.com/yashwawge/sih) - Millet Supply Chain
 **SIH 2025 Finalist** | `Next.js` `MongoDB` `Flask` `Blockchain`  
 **Role:** Technical Lead
 - Led 6-member dev team, designed monolithic Next.js architecture
@@ -42,30 +42,35 @@ const profile = {
 
 ### 🌿 [ArogyaVatika](https://github.com/Siddheshgite15/arogyavatika) - Ayurveda E-Commerce
 **2nd Rank PBL** | `Spring Boot` `React` `Docker` `JWT` `MongoDB`
+**Role:** Full-Stack Developer
 - Designed & deployed 3-tier full-stack architecture
 - Implemented secure role-based authentication (User/Owner/Admin)
 - Dockerized backend, deployed on Render & Vercel
 - **Impact:** Designed for scalable concurrent user handling
 
-### 🔐 [TrustShield](https://github.com/Siddheshgite15/trustshield) - AI Insurance Platform
+### 🔐 [InsurEase](https://github.com/Siddheshgite15/InsurEase--Insurance-Manager) - AI Insurance Platform
 **National-Level Finalist** | `React` `Node.js` `TypeScript` `MongoDB` `Gemini AI`
+**Role:** Frontend Developer (Routing and event handling)
 - Architected frontend routing & state management for 5-member team
 - Built AI-powered insurance recommendation engine
 - Integrated Razorpay payments & claim calculator with real-time analytics
 - **Impact:** Streamlined insurance policy management with AI-driven insights
 
-### 📱 [File Manager Simulation](https://github.com/Siddheshgite15/file-manager-rn) - Mobile App
+### 👤 [Face Recognition Attendance](https://github.com/Siddheshgite15/Face-Recognition-based-Attendance-System-Version_2-TCP_Socket) - CV System
+`Python` `OpenCV` `Flask` `KNN`
+**Role:** Backend developer 
+- Integrated backend services with face recognition (95%+ accuracy)
+- Automated attendance marking & CSV export functionality
+
+##Solo project :
+
+### 📱 [File Manager Simulation](https://github.com/Siddheshgite15/FileManager) - Mobile App
 `React Native` `Expo` `Data Structures`
 - Implemented Tree, Binary Tree & Max-Heap for file operations
 - Achieved O(log n) search complexity with priority-based views
 - Built offline-first architecture with real-time visualization
 
-### 👤 [Face Recognition Attendance](https://github.com/Siddheshgite15/face-attendance) - CV System
-`Python` `OpenCV` `Flask` `KNN`
-- Integrated backend services with face recognition (95%+ accuracy)
-- Automated attendance marking & CSV export functionality
-
-### 📊 Asset Manager - Stock & Billing System
+### 📊 [Asset Manager](https://github.com/Siddheshgite15/Asset-Manager--Stock-Monitoring-and-Billing-System-v2.0) - Stock & Billing System
 `Django` `Python` `SQLite`
 
 - Role-based access control (Admin & Employees)
@@ -73,15 +78,7 @@ const profile = {
 - Automated billing and invoice generation
 - Employee login/logout monitoring system
 
-### 🏪 Stock Management System
-`Python` `Django`
-
-- Complete product CRUD operations
-- Stock alert mechanism for low inventory
-- Integrated billing system
-- Admin dashboard for inventory control
-
-### 📈 Sorting Algorithm Visualization
+### 📈 [Sorting Algorithm Visualization](https://github.com/Siddheshgite15/Sort-Visualizer-using-C-graphics.h-considering-color-code)
 `C++` `graphics.h`
 
 - Visual demonstration of Bubble, Selection, Insertion & Merge Sort
@@ -89,21 +86,6 @@ const profile = {
 - Time complexity behavior visualization
 - Educational tool for algorithm understanding
 
-### 🤖 Height-to-Weight Predictor
-`Python` `Machine Learning` `Scikit-learn`
-
-- Linear regression model implementation
-- Dataset preprocessing & feature engineering
-- Prediction engine with model evaluation
-- Statistical analysis of height-weight correlation
-
-### 💳 Django Billing System
-`Django` `Python`
-
-- User authentication & session management
-- Product management module
-- Automated bill generation
-- Invoice handling & export functionality
 ---
 
 ## 💻 Tech Stack
