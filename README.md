@@ -5,7 +5,7 @@
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;SIH+2025+Finalist;Building+Production-Ready+Apps)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/siddheshgite)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-80%2B-FFA116?style=flat&logo=leetcode)](https://leetcode.com/siddheshgite15)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Active-FFA116?style=flat&logo=leetcode)](https://leetcode.com/siddheshgite15)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:siddheshgite15@gmail.com)
   
 </div>
@@ -32,27 +32,27 @@ const profile = {
 
 ## 🚀 Featured Projects
 
-### 🔐 [TrustShield](https://github.com/Siddheshgite15/trustshield) - AI Insurance Platform
-**Hackathon Winner** | `React` `Node.js` `TypeScript` `MongoDB` `Gemini AI`
-- Architected frontend routing & state management for 5-member team
-- Built AI-powered insurance recommendation engine
-- Integrated Razorpay payments & claim calculator with real-time analytics
-- **Impact:** Simplified policy management for 1000+ mock users
-
 ### 🌾 [Shree Anna](https://github.com/Siddheshgite15/shree-anna) - Millet Supply Chain
 **SIH 2025 Finalist** | `Next.js` `MongoDB` `Flask` `Blockchain`  
 **Role:** Technical Lead
 - Led 6-member dev team, designed monolithic Next.js architecture
 - Implemented blockchain traceability & QR certification system
 - Built multilingual mobile-first UI for farmers & distributors
-- **Impact:** Digitized supply chain connecting 500+ farmers to markets
+- **Impact:** Digitized millet supply chain connecting farmers to markets
 
 ### 🌿 [ArogyaVatika](https://github.com/Siddheshgite15/arogyavatika) - Ayurveda E-Commerce
 **2nd Rank PBL** | `Spring Boot` `React` `Docker` `JWT` `MongoDB`
 - Designed & deployed 3-tier full-stack architecture
 - Implemented secure role-based authentication (User/Owner/Admin)
 - Dockerized backend, deployed on Render & Vercel
-- **Impact:** Scaled to 200+ concurrent users in testing
+- **Impact:** Designed for scalable concurrent user handling
+
+### 🔐 [TrustShield](https://github.com/Siddheshgite15/trustshield) - AI Insurance Platform
+**National-Level Finalist** | `React` `Node.js` `TypeScript` `MongoDB` `Gemini AI`
+- Architected frontend routing & state management for 5-member team
+- Built AI-powered insurance recommendation engine
+- Integrated Razorpay payments & claim calculator with real-time analytics
+- **Impact:** Streamlined insurance policy management with AI-driven insights
 
 ### 📱 [File Manager Simulation](https://github.com/Siddheshgite15/file-manager-rn) - Mobile App
 `React Native` `Expo` `Data Structures`
@@ -94,7 +94,7 @@ const profile = {
 | **Arrays & Strings** | Two Pointers, Sliding Window, Hashing |
 | **Data Structures** | Stacks, Queues, Linked Lists, Trees, Graphs, Heaps |
 | **Algorithms** | Recursion, Backtracking, Greedy, Dynamic Programming |
-| **Practice** | 80+ LeetCode Problems (Pattern-Based Approach) |
+| **Practice** | Consistent LeetCode Practice (Pattern-Based Approach) |
 
 </div>
 
