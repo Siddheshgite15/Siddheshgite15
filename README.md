@@ -33,20 +33,22 @@ const profile = {
 ## 🚀 Featured Projects
 
 ### 🌾 [Shree Anna](https://github.com/yashwawge/sih) - Millet Supply Chain
-**SIH 2025 Finalist** | `Next.js` `MongoDB` `Flask` `Blockchain`  
+**SIH 2025 Finalist** | `Next.js` `MongoDB` `Flask` `Blockchain` `JWT` `Railway`
 **Role:** Technical Lead
 - Led 6-member dev team, designed monolithic Next.js architecture
 - Implemented blockchain traceability & QR certification system
 - Built multilingual mobile-first UI for farmers & distributors
 - **Impact:** Digitized millet supply chain connecting farmers to markets
+- **Live URL:** https://shree-anna-production.up.railway.app/
 
-### 🌿 [ArogyaVatika](https://github.com/Siddheshgite15/arogyavatika) - Ayurveda E-Commerce
-**2nd Rank PBL** | `Spring Boot` `React` `Docker` `JWT` `MongoDB`
+### 🌿 [ArogyaVatika](https://github.com/Siddheshgite15/arogya-vatika) - Ayurveda E-Commerce
+**2nd Rank PBL** | `Spring Boot` `React` `Docker` `JWT` `MongoDB` `Vercel` `Render`
 **Role:** Full-Stack Developer
 - Designed & deployed 3-tier full-stack architecture
 - Implemented secure role-based authentication (User/Owner/Admin)
 - Dockerized backend, deployed on Render & Vercel
 - **Impact:** Designed for scalable concurrent user handling
+- **Live URL:**  https://arogyavatika.vercel.app
 
 ### 🔐 [InsurEase](https://github.com/Siddheshgite15/InsurEase--Insurance-Manager) - AI Insurance Platform
 **National-Level Finalist** | `React` `Node.js` `TypeScript` `MongoDB` `Gemini AI`
@@ -62,13 +64,14 @@ const profile = {
 - Integrated backend services with face recognition (95%+ accuracy)
 - Automated attendance marking & CSV export functionality
 
-##Solo project :
+## Solo project :
 
 ### 📱 [File Manager Simulation](https://github.com/Siddheshgite15/FileManager) - Mobile App
 `React Native` `Expo` `Data Structures`
 - Implemented Tree, Binary Tree & Max-Heap for file operations
 - Achieved O(log n) search complexity with priority-based views
 - Built offline-first architecture with real-time visualization
+- Live apk in Repository
 
 ### 📊 [Asset Manager](https://github.com/Siddheshgite15/Asset-Manager--Stock-Monitoring-and-Billing-System-v2.0) - Stock & Billing System
 `Django` `Python` `SQLite`
