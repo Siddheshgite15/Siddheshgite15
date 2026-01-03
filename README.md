@@ -2,12 +2,11 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;SIH+2025+Finalist;Building+Production-Ready+Apps;Open+Source+Contributor)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;SIH+2025+Finalist;Building+Production-Ready+Apps)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/siddheshgite)
   [![LeetCode](https://img.shields.io/badge/LeetCode-Active-FFA116?style=flat&logo=leetcode)](https://leetcode.com/siddheshgite15)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:siddheshgite15@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat&logo=google-chrome)](https://github.com/Siddheshgite15)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Siddheshgite15&color=blueviolet&style=flat-square&label=Profile+Views)
   
@@ -18,9 +17,7 @@ const profile = {
     role: "Computer Engineering Student",
     location: "Maharashtra, India",
     focus: ["Full Stack Development", "System Design", "AI/ML"],
-    seeking: "SDE Internships & Full-Time Opportunities",
-    currentlyLearning: ["Advanced System Design", "Backend Scalability"],
-    funFact: "I turn coffee into code and bugs into features ☕"
+    seeking: "SDE Internships & Full-Time Opportunities"
 };
 ```
 
@@ -39,11 +36,10 @@ const profile = {
 <details>
 <summary><b>🎖️ View Achievement Details</b></summary>
 
-- 🥇 **Smart India Hackathon 2025 Finalist** - Led Team Sahasra to national finals with Shree Anna blockchain platform
-- 🥈 **ArogyaVatika 2nd Place** - Full-stack Ayurveda e-commerce platform with Team NERV
-- 🏅 **National Hackathon Finalist** - InsurEase AI Insurance Platform
-- 💡 **15+ Production Projects** - Successfully deployed and maintained across multiple tech stacks
-- 🌟 **100+ GitHub Contributions** - Consistent open source contributions
+- 🥇 **Smart India Hackathon 2025 Finalist** - Led Team Sahasra to national finals
+- 🥈 **ArogyaVatika 2nd Place** - Full-stack e-commerce platform with Team NERV
+- 🏅 **3× National Hackathon Finalist** - InsurEase AI Insurance Platform & others
+- 💼 **15+ Production Projects** - Successfully deployed across multiple tech stacks
 
 </details>
 
@@ -174,7 +170,6 @@ Live cryptocurrency portfolio management with real-time Bitcoin tracking, trend 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔧 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -184,7 +179,6 @@ Live cryptocurrency portfolio management with real-time Bitcoin tracking, trend 
 
 ### 🤖 AI/ML
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
@@ -229,11 +223,10 @@ Live cryptocurrency portfolio management with real-time Bitcoin tracking, trend 
 ## 🎯 Currently Working On
 
 ```diff
-+ 🎓 Preparing for GATE 2026 & SDE Interview Preparation
-+ 🏗️ Learning Advanced System Design & Backend Scalability Patterns
++ 🎓 Preparing for GATE 2026 & SDE Interviews
++ 🏗️ Learning Advanced System Design & Backend Scalability
 + 🤖 Building AI-powered Production Applications
-+ 🌟 Contributing to Open Source Projects
-+ 📚 Exploring Cloud Technologies (AWS/Azure)
++ 🌟 Contributing to Open Source
 ```
 
 ---
@@ -245,36 +238,6 @@ Live cryptocurrency portfolio management with real-time Bitcoin tracking, trend 
 <img src="https://img.shields.io/badge/Postman-API_Fundamentals-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-102+_Contributions-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-</div>
-
----
-
-## 💡 What I'm Learning
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Siddhesh's
-    Learning Path))
-    System Design
-      Microservices
-      Load Balancing
-      Caching Strategies
-    Backend Scalability
-      Database Optimization
-      API Performance
-      Message Queues
-    Cloud & DevOps
-      AWS Services
-      Kubernetes
-      CI/CD Pipelines
-    AI/ML
-      Deep Learning
-      NLP Applications
-      Computer Vision
-```
 
 </div>
 
