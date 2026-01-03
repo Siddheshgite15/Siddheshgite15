@@ -2,11 +2,14 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;SIH+2025+Finalist;Building+Production-Ready+Apps)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;SIH+2025+Finalist;Building+Production-Ready+Apps;Open+Source+Contributor)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/siddheshgite)
   [![LeetCode](https://img.shields.io/badge/LeetCode-Active-FFA116?style=flat&logo=leetcode)](https://leetcode.com/siddheshgite15)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:siddheshgite15@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat&logo=google-chrome)](https://github.com/Siddheshgite15)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Siddheshgite15&color=blueviolet&style=flat-square&label=Profile+Views)
   
 </div>
 
@@ -15,7 +18,9 @@ const profile = {
     role: "Computer Engineering Student",
     location: "Maharashtra, India",
     focus: ["Full Stack Development", "System Design", "AI/ML"],
-    seeking: "SDE Internships & Full-Time Opportunities"
+    seeking: "SDE Internships & Full-Time Opportunities",
+    currentlyLearning: ["Advanced System Design", "Backend Scalability"],
+    funFact: "I turn coffee into code and bugs into features ☕"
 };
 ```
 
@@ -23,89 +28,122 @@ const profile = {
 
 ## 🏆 Achievements
 
-- 🥇 **SIH 2025 Finalist** – Smart India Hackathon (National Level)
-- 🥈 **2nd Rank** – ArogyaVatika, College PBL Competition
-- 🏅 **3× Hackathon Finalist** – National & State Level
-- 💼 **15+ Production Projects** – Solo & Team Leadership
+<div align="center">
+
+| 🥇 SIH 2025 Finalist | 🥈 2nd Rank ArogyaVatika | 🏅 3× Hackathon Finalist | 💼 15+ Projects |
+|:-------------------:|:----------------------:|:----------------------:|:---------------:|
+| National Level | College PBL Competition | National & State Level | Solo & Team Lead |
+
+</div>
+
+<details>
+<summary><b>🎖️ View Achievement Details</b></summary>
+
+- 🥇 **Smart India Hackathon 2025 Finalist** - Led Team Sahasra to national finals with Shree Anna blockchain platform
+- 🥈 **ArogyaVatika 2nd Place** - Full-stack Ayurveda e-commerce platform with Team NERV
+- 🏅 **National Hackathon Finalist** - InsurEase AI Insurance Platform
+- 💡 **15+ Production Projects** - Successfully deployed and maintained across multiple tech stacks
+- 🌟 **100+ GitHub Contributions** - Consistent open source contributions
+
+</details>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌾 [Shree Anna](https://github.com/yashwawge/sih) - Millet Supply Chain (Private)
-**SIH 2025 Finalist** | `Next.js` `MongoDB` `Flask` `Blockchain` `JWT` `Railway`
+<table>
+<tr>
+<td width="50%">
+
+### 🌾 Shree Anna - Millet Supply Chain
+**🏆 SIH 2025 Finalist**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" />
+
 **Role:** Technical Lead (Team Sahasra)
-- Led 6-member dev team, designed monolithic Next.js architecture
-- Implemented blockchain traceability & QR certification system
-- Built multilingual mobile-first UI for farmers & distributors
-- **Impact:** Digitized millet supply chain connecting farmers to markets
-- **Live URL:** https://shree-anna-production.up.railway.app/
 
-### 🌿 [ArogyaVatika](https://github.com/Siddheshgite15/arogya-vatika) - Ayurveda E-Commerce (Private)
-**2nd Rank PBL** | `Spring Boot` `React` `Docker` `JWT` `MongoDB` `Vercel` `Render`
+Led 6-member team designing blockchain-based millet traceability system with QR certification & multilingual mobile-first UI.
+
+**Impact:** Digitized supply chain connecting farmers to markets
+
+🔗 [Live Demo](https://shree-anna-production.up.railway.app/)
+
+</td>
+<td width="50%">
+
+### 🌿 ArogyaVatika - Ayurveda E-Commerce
+**🥈 2nd Rank PBL**
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
 **Role:** Full-Stack Developer (Team NERV)
-- Designed & deployed 3-tier full-stack architecture
-- Implemented secure role-based authentication (User/Owner/Admin)
-- Dockerized backend, deployed on Render & Vercel
-- **Impact:** Designed for scalable concurrent user handling
-- **Live URL:**  https://arogyavatika.vercel.app
 
-### 🔐 [InsurEase](https://github.com/Siddheshgite15/InsurEase--Insurance-Manager) - AI Insurance Platform (Private)
-**National-Level Finalist** | `React` `Node.js` `TypeScript` `MongoDB` `Gemini AI`
-**Role:** Frontend Developer (Routing and event handling) (Team TrustShield)
-- Architected frontend routing & state management for 5-member team
-- Built AI-powered insurance recommendation engine
-- Integrated Razorpay payments & claim calculator with real-time analytics
-- **Impact:** Streamlined insurance policy management with AI-driven insights
+Built 3-tier architecture with role-based auth & dockerized deployment for scalable concurrent user handling.
 
-### 👤 [Face Recognition Attendance](https://github.com/Siddheshgite15/Face-Recognition-based-Attendance-System-Version_2-TCP_Socket) - CV System (Public)
-`Python` `OpenCV` `Flask` `KNN`
-**Role:** Backend developer (Team X) 
-- Integrated backend services with face recognition (80%+ accuracy)
-- Automated attendance marking & CSV export functionality
+**Impact:** Secure, scalable e-commerce platform
 
-## Solo project :
+🔗 [Live Demo](https://arogyavatika.vercel.app)
 
-### 📱 [File Manager Simulation](https://github.com/Siddheshgite15/FileManager) - Mobile App (Private)
-`React Native` `Expo` `Data Structures`
-- Implemented Tree, Binary Tree & Max-Heap for file operations
-- Achieved O(log n) search complexity with priority-based views
-- Built offline-first architecture with real-time visualization
-- Live apk in Repository
+</td>
+</tr>
 
-### 🌾 [Millet Price Predictor](https://github.com/Siddheshgite15/millet-price-predictor) - ML Microservice (Public)
-`Flask` `Python` `Machine Learning` `REST API`
+<tr>
+<td width="50%">
 
-- Region-specific ML models for Nashik millet price prediction
-- Secure Flask-based REST API microservice
-- Backend service for Shree Anna (SIH) platform
-- Multi-region price forecasting engine
+### 🔐 InsurEase - AI Insurance Platform
+**🏅 National Finalist**
 
-### 💰 [CryptoBuddy](https://github.com/Siddheshgite15/crypto-buddy-demo) - Portfolio Tracker (Public)
-`Typescript` `React` `Node.js` `Third-Party APIs` `Lovable AI` `Prompting`
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
 
-- Live cryptocurrency portfolio management platform
-- Real-time Bitcoin price tracking with trend analysis
-- Fake account simulation for beginner traders
-- Portfolio history tracking & performance analytics
-- Integration with live crypto market APIs
-- **Live URL:** https://lovable.dev/projects/73a6fcf1-b6d6-4519-8dc6-657409d25796
+**Role:** Frontend Developer (Team TrustShield)
 
-### 📊 [Asset Manager](https://github.com/Siddheshgite15/Asset-Manager--Stock-Monitoring-and-Billing-System-v2.0) - Stock & Billing System (Public)
-`Django` `Python` `SQLite`
+Architected routing & state management with AI-powered recommendations, Razorpay integration & real-time analytics.
 
-- Role-based access control (Admin & Employees)
-- Real-time inventory tracking & stock monitoring
-- Automated billing and invoice generation
-- Employee login/logout monitoring system
+**Impact:** Streamlined policy management with AI insights
 
-### 📈 [Sorting Algorithm Visualization](https://github.com/Siddheshgite15/Sort-Visualizer-using-C-graphics.h-considering-color-code) (Public)
-`C++` `graphics.h`
+</td>
+<td width="50%">
 
-- Visual demonstration of Bubble, Selection, Insertion & Merge Sort
-- Real-time animation of sorting processes
-- Time complexity behavior visualization
-- Educational tool for algorithm understanding
+### 💰 CryptoBuddy - Portfolio Tracker
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+Live cryptocurrency portfolio management with real-time Bitcoin tracking, trend analysis & performance analytics.
+
+**Impact:** Beginner-friendly crypto trading simulator
+
+🔗 [Live Demo](https://lovable.dev/projects/73a6fcf1-b6d6-4519-8dc6-657409d25796)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔍 View More Projects</b></summary>
+
+### 👤 Face Recognition Attendance System
+`Python` `OpenCV` `Flask` `KNN` | 80%+ accuracy automated attendance
+
+### 📱 File Manager Simulation
+`React Native` `Expo` | Tree/Binary Tree/Max-Heap implementation with O(log n) search
+
+### 🌾 Millet Price Predictor
+`Flask` `ML` | Region-specific price forecasting microservice
+
+### 📊 Asset Manager
+`Django` `SQLite` | Stock monitoring & billing with role-based access
+
+### 📈 Sorting Algorithm Visualization
+`C++` `graphics.h` | Real-time sorting animation educational tool
+
+</details>
 
 ---
 
@@ -113,59 +151,136 @@ const profile = {
 
 <div align="center">
 
-**Languages:** `C++` `Java` `Python` `JavaScript` `TypeScript`
+### 👨‍💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Frontend:** `React` `Next.js` `React Native` `Tailwind CSS`
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend:** `Node.js` `Express` `Django` `Flask` `Spring Boot`
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-**Database:** `MongoDB` `MySQL` **DevOps:** `Docker` `Git` `Vercel` `Render`
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**AI/ML:** `OpenCV` `TensorFlow` `Scikit-learn` `Gemini API`
+### 🔧 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+### 🤖 AI/ML
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 DSA & Problem Solving
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-| **Category** | **Skills** |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Siddheshgite15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddheshgite15&theme=tokyonight&hide_border=true" />
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Siddheshgite15&theme=tokyo-night&hide_border=true&area=true" />
+
+### 📈 Most Used Languages
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddheshgite15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🎯 DSA & Problem Solving Journey
+
+<div align="center">
+
+| **Category** | **Skills & Progress** |
 |:------------|:-----------|
-| **Arrays & Strings** | Two Pointers, Sliding Window, Hashing |
-| **Data Structures** | Stacks, Queues, Linked Lists, Trees, Graphs, Heaps |
-| **Algorithms** | Recursion, Backtracking, Greedy, Dynamic Programming |
-| **Practice** | Consistent LeetCode Practice (Pattern-Based Approach) |
+| 🎯 **Arrays & Strings** | Two Pointers, Sliding Window, Hashing, Pattern Matching |
+| 📚 **Data Structures** | Stacks, Queues, Linked Lists, Trees, Graphs, Heaps, Tries |
+| ⚡ **Algorithms** | Recursion, Backtracking, Greedy, Dynamic Programming, Binary Search |
+| 🧮 **Advanced Topics** | Graph Algorithms (DFS, BFS, Dijkstra), Tree Traversals, Bit Manipulation |
+| 💪 **Practice Platform** | LeetCode - Consistent Problem Solving with Pattern-Based Approach |
+
+[![LeetCode Stats](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/siddheshgite15)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Siddheshgite15&theme=tokyo-night&hide_border=true&area=true)
-
-### Commit Streak & Contributions
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddheshgite15&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Currently
+## 🎯 Currently Working On
 
 ```diff
-+ Preparing for GATE 2026 & SDE Interviews
-+ Learning Advanced System Design & Backend Scalability
-+ Building AI-powered production applications
-+ Contributing to Open Source
++ 🎓 Preparing for GATE 2026 & SDE Interview Preparation
++ 🏗️ Learning Advanced System Design & Backend Scalability Patterns
++ 🤖 Building AI-powered Production Applications
++ 🌟 Contributing to Open Source Projects
++ 📚 Exploring Cloud Technologies (AWS/Azure)
 ```
 
 ---
+
+## 🏅 Certifications & Badges
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Postman-API_Fundamentals-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-102+_Contributions-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
+---
+
+## 💡 What I'm Learning
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Siddhesh's
+    Learning Path))
+    System Design
+      Microservices
+      Load Balancing
+      Caching Strategies
+    Backend Scalability
+      Database Optimization
+      API Performance
+      Message Queues
+    Cloud & DevOps
+      AWS Services
+      Kubernetes
+      CI/CD Pipelines
+    AI/ML
+      Deep Learning
+      NLP Applications
+      Computer Vision
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
@@ -178,7 +293,9 @@ const profile = {
 
 ---
 
-⭐ *Open to collaborations on full-stack & AI projects* ⭐
+### 💬 "Building the future, one commit at a time"
+
+⭐ **Open to collaborations on Full-Stack, AI/ML & System Design Projects** ⭐
 
 ![Wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 
