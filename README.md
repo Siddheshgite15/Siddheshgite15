@@ -29,7 +29,7 @@ const profile = {
 
 | 🥇 SIH 2025 Finalist | 🥈 2nd Rank ArogyaVatika | 🏅 3× Hackathon Finalist | 💼 15+ Projects |
 |:-------------------:|:----------------------:|:----------------------:|:---------------:|
-| National Level | College PBL Competition | National & State Level | Solo & Team Lead |
+| National Level | College PBL & DSA Competition | National & State Level | Solo & Team Lead |
 
 </div>
 
@@ -163,7 +163,6 @@ Live cryptocurrency portfolio management with real-time Bitcoin tracking, trend 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
@@ -223,23 +222,11 @@ Live cryptocurrency portfolio management with real-time Bitcoin tracking, trend 
 ## 🎯 Currently Working On
 
 ```diff
-+ 🎓 Preparing for GATE 2026 & SDE Interviews
++ 🎓 Preparing for Interviews
 + 🏗️ Learning Advanced System Design & Backend Scalability
 + 🤖 Building AI-powered Production Applications
 + 🌟 Contributing to Open Source
 ```
-
----
-
-## 🏅 Certifications & Badges
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Postman-API_Fundamentals-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-102+_Contributions-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-</div>
 
 ---
 
