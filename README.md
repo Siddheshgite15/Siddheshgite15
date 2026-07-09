@@ -199,26 +199,6 @@ Live cryptocurrency portfolio management with real-time Bitcoin tracking, trend 
 
 </div>
 
----
-
-## 🎯 DSA & Problem Solving Journey
-
-<div align="center">
-
-| **Category** | **Skills & Progress** |
-|:------------|:-----------|
-| 🎯 **Arrays & Strings** | Two Pointers, Sliding Window, Hashing, Pattern Matching |
-| 📚 **Data Structures** | Stacks, Queues, Linked Lists, Trees, Graphs, Heaps, Tries |
-| ⚡ **Algorithms** | Recursion, Backtracking, Greedy, Dynamic Programming, Binary Search |
-| 🧮 **Advanced Topics** | Graph Algorithms (DFS, BFS, Dijkstra), Tree Traversals, Bit Manipulation |
-| 💪 **Practice Platform** | LeetCode - Consistent Problem Solving with Pattern-Based Approach |
-
-[![LeetCode Stats](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/siddheshgite15)
-
-</div>
-
----
-
 ## 🎯 Currently Working On
 
 ```diff
