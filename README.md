@@ -1,5 +1,14 @@
 # 👋 Hi, I'm Siddhesh Gite
 
+### Backend Developer | Java & Spring Boot | Exploring DevOps
+
+I'm a final-year Computer Engineering student at K.K. Wagh Institute of Engineering Education & Research (2027), interested in building backend applications and understanding how software is developed, deployed and maintained.
+
+My primary focus is **Java Backend Development**, with hands-on experience in Spring Boot, REST APIs, database management, authentication and Docker-based application deployment.
+
+I'm currently expanding my knowledge of **DevOps fundamentals**, including Linux, CI/CD, cloud infrastructure and automation.
+
+
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;SIH+2025+Finalist;Building+Production-Ready+Apps)
@@ -17,7 +26,7 @@ const profile = {
     role: "Computer Engineering Student",
     location: "Maharashtra, India",
     focus: ["Full Stack Development", "System Design", "AI/ML"],
-    seeking: "SDE Internships & Full-Time Opportunities"
+    seeking: "Internships & Full-Time Opportunities"
 };
 ```
 
@@ -27,7 +36,7 @@ const profile = {
 
 <div align="center">
 
-| 🥇 SIH 2025 Finalist | 🥈 2nd Rank ArogyaVatika | 🏅 3× Hackathon Finalist | 💼 15+ Projects |
+| 🥇 SIH 2025 Finalist | 🥈 2nd Rank ArogyaVatika | 🏅 3× Hackathon Finalist | 💼 10+ Projects |
 |:-------------------:|:----------------------:|:----------------------:|:---------------:|
 | National Level | College PBL & DSA Competition | National & State Level | Solo & Team Lead |
 
@@ -45,6 +54,27 @@ const profile = {
 
 ---
 
+## 💼 Professional Experience
+
+### Web Development Intern | SuPrazo Technologies
+**June 2026 – Present**
+
+- Developed and improved REST APIs using Java and Spring Boot.
+- Worked on backend enhancements, notification workflows and TiDB schema optimization.
+- Used Docker for application containerization and supported application deployment.
+- Contributed to backend development, application integration and deployment troubleshooting.
+
+**Technologies:** Java, Spring Boot, REST APIs, TiDB, Docker, SQL, Render, Vercel.
+
+### Open Source Contributor | Elite Coders
+**January 2026 – February 2026**
+
+- Contributed to multiple open-source repositories.
+- Identified issues, implemented fixes and collaborated through pull requests.
+- Successfully contributed **8+ merged pull requests**.
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -56,9 +86,6 @@ const profile = {
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" />
-
-**Role:** Technical Lead (Team Sahasra)
 
 Led 6-member team designing blockchain-based millet traceability system with QR certification & multilingual mobile-first UI.
 
@@ -76,46 +103,11 @@ Led 6-member team designing blockchain-based millet traceability system with QR 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
-**Role:** Full-Stack Developer (Team NERV)
-
 Built 3-tier architecture with role-based auth & dockerized deployment for scalable concurrent user handling.
 
 **Impact:** Secure, scalable e-commerce platform
 
-🔗 [Live Demo](https://arogyavatika.vercel.app)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔐 InsurEase - AI Insurance Platform
-**🏅 National Finalist**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-
-**Role:** Frontend Developer (Team TrustShield)
-
-Architected routing & state management with AI-powered recommendations, Razorpay integration & real-time analytics.
-
-**Impact:** Streamlined policy management with AI insights
-
-</td>
-<td width="50%">
-
-### 💰 CryptoBuddy - Portfolio Tracker
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-
-Live cryptocurrency portfolio management with real-time Bitcoin tracking, trend analysis & performance analytics.
-
-**Impact:** Beginner-friendly crypto trading simulator
-
-🔗 [Live Demo](https://lovable.dev/projects/73a6fcf1-b6d6-4519-8dc6-657409d25796)
+🔗 [Live Demo](https://arogya-ecommerce.vercel.app)
 
 </td>
 </tr>
@@ -136,9 +128,6 @@ Live cryptocurrency portfolio management with real-time Bitcoin tracking, trend 
 ### 📊 Asset Manager
 `Django` `SQLite` | Stock monitoring & billing with role-based access
 
-### 📈 Sorting Algorithm Visualization
-`C++` `graphics.h` | Real-time sorting animation educational tool
-
 </details>
 
 ---
@@ -148,37 +137,36 @@ Live cryptocurrency portfolio management with real-time Bitcoin tracking, trend 
 <div align="center">
 
 ### 👨‍💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ⚙️ Backend Development
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔧 DevOps & Tools
+### ☁️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
-### 🤖 AI/ML
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 🧰 Development Tools
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -203,9 +191,10 @@ Live cryptocurrency portfolio management with real-time Bitcoin tracking, trend 
 
 ```diff
 + 🎓 Preparing for Interviews
-+ 🏗️ Learning Advanced System Design & Backend Scalability
-+ 🤖 Building AI-powered Production Applications
-+ 🌟 Contributing to Open Source
++ ☕ Strengthening Java, Spring Boot & DSA
++ 🏗️ Learning System Design and Backend Scalability
++ 🚀 Exploring Docker, Linux & DevOps Fundamentals
++ 🤖 Exploring AI-powered Application Development
 ```
 
 ---
