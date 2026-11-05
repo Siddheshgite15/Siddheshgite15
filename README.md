@@ -38,7 +38,7 @@ const profile = {
 
 | 🥇 SIH 2025 Finalist | 🥈 2nd Rank ArogyaVatika | 🏅 3× Hackathon Finalist | 💼 10+ Projects |
 |:-------------------:|:----------------------:|:----------------------:|:---------------:|
-| National Level | College PBL & DSA Competition | National & State Level | Solo & Team Lead |
+| National Level | College PBL & DSA Competition | National & State Level | Solo & Group |
 
 </div>
 
@@ -91,7 +91,7 @@ Led 6-member team designing blockchain-based millet traceability system with QR 
 
 **Impact:** Digitized supply chain connecting farmers to markets
 
-🔗 [Live Demo](https://shree-anna-production.up.railway.app/)
+🔗 [Live Demo](https://shree-anna-sahashra.vercel.app/)
 
 </td>
 <td width="50%">
